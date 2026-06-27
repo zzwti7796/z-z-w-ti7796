@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
     <a href="https://github.com/MarSeventh/CloudFlare-ImgBed"><img width="80%" alt="logo" src="readme/banner.png" /></a>
     <p><em>🗂️Open-source file hosting solution, supporting Docker and serverless deployment, supporting multiple storage channels such as Telegram, Discord, Cloudflare R2, S3, Huggingface, WebDAV, etc., providing RESTful APIs and WebDAV support.</em></p>
     <p >
